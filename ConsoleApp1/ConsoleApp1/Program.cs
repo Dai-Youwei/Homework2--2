@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    static class HelloWorld
+    public static class HelloWorld
     {
         public static void helloWorld()
         {
